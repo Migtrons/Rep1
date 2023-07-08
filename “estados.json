@@ -1,98 +1,99 @@
-
-{"id":	"MX-AGU",	
-"value":1653
+[
+[
+{"id": "MX-AGU",	
+"valor": 1653
 },
-{"id":	"MX-BCS",	
-"value":1218
+{"id": "MX-BCS",	
+"valor":1218
 },
-{"id":	"MX-CMX",	
-"value":47682
+{"id": "MX-CMX",	
+"valor":47682
 },
-{"id":	"MX-COA",	
-"value":2949
+{"id": "MX-COA",	
+"valor":2949
 },
-{"id":	"MX-COL",	
-"value":1033
+{"id": "MX-COL",	
+"valor":1033
 },
-{"id":	"MX-DUR",	
-"value":1245
+{"id": "MX-DUR",	
+"valor": 1245
 },
-{"id":	"MX-GRO",	
-"value":2447},
-{"id":	"MX-GUA",	
-"value":6290
+{"id": "MX-GRO",	
+"valor":2447},
+{"id": "MX-GUA",	
+"valor":6290
 },
-{"id":	"MX-HID",	
-"value":3053
+{"id": "MX-HID",	
+"valor":3053
 },
-{"id":	"MX-JAL",	
-"value":14939
+{"id": "MX-JAL",	
+"valor":14939
 },
-{"id":	"MX-MEX",	
-"value":17405
+{"id": "MX-MEX",	
+"valor":17405
 },
-{"id":	"MX-MIC",	
-"value":2454
+{"id": "MX-MIC",	
+"valor":2454
 },
-{"id":	"MX-MOR",	
-"value":2827
+{"id": "MX-MOR",	
+"valor":2827
 },
-{"id":	"MX-NAY",	
-"value":880
+{"id": "MX-NAY",	
+"valor":880
 },
-{"id":	"MX-NLE",	
-"value":1053
+{"id": "MX-NLE",	
+"valor":1053
 },
-{"id":	"MX-OAX",	
-"value":1795
+{"id": "MX-OAX",	
+"valor": 1795
 },
-{"id":	"MX-PUE",	
-"value":8616
+{"id": "MX-PUE",	
+"valor":8616
 },
-{"id":	"MX-QUE",	
-"value":5646
+{"id": "MX-QUE",	
+"valor":5646
 },
-{"id":	"MX-SIN",	
-"value":4209
+{"id": "MX-SIN",	
+"valor":4209
 },
-{"id":	"MX-SLP",	
-"value":2995
+{"id": "MX-SLP",	
+"valor":2995
 },
-{"id":	"MX-TAM",	
-"value":4193
+{"id": "MX-TAM",	
+"valor":4193
 },
-{"id":	"MX-TLA",	
-"value":816
+{"id": "MX-TLA",	
+"valor":816
 },
-{"id":	"MX-VER",	
-"value":4598
+{"id": "MX-VER",	
+"valor":4598
 },
-{"id":	"MX-ZAC",	
-"value":3212
+{"id": "MX-ZAC",	
+"valor":3212
 },
-{"id":	"MX-YUC",	
-"value":2453
+{"id": "MX-YUC",	
+"valor":2453
 },
-{"id":	"MX-ROO",	
-"value":4532
+{"id": "MX-ROO",	
+"valor":4532
 },
-{"id":	"MX-CAM",	
-"value":2167
+{"id": "MX-CAM",	
+"valor":2167
 },
-{"id":	"MX-TAB",	
-"value":7298
+{"id": "MX-TAB",	
+"valor":7298
 },
-{"id":	"MX-CHP",	
-"value":1567
+{"id": "MX-CHP",	
+"valor":1567
 },
-{"id":	"MX-CHH",	
-"value":8162
+{"id": "MX-CHH",	
+"valor":8162
 },
-{"id":	"MX-SON",	
-"value":5672
+{"id": "MX-HIJO",	
+"valor":5672
 },
-{"id":	"MX-BCN",	
-"value":4621
+{"id": "MX-BCN",	
+"valor":4621
 }
 ]
 ]
